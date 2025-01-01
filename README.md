@@ -1,5 +1,8 @@
 # Dashboard Econômico
 
+![Imagem do projeto](assets/img_2.png)
+
+
 Este é um dashboard interativo desenvolvido em Python com a biblioteca Dash. Ele utiliza dados extraídos da API do Banco Central do Brasil para apresentar indicadores econômicos como inflação, INPC, PIB, PIB per capita, entre outros.
 
 ## Funcionalidades
